@@ -1,17 +1,16 @@
 # Vonsked_Branch
 
-Listing des Tâches:
+Henri Leroi:
 
-- Template 1 
-- Template 2
-- Template 3
+Restaurant de gastronomie française
+
+- Accueil: Header, slider, actuellement, geomap
 - Carte des vins 
-- Carte Menus
-- Carte Desserts
-- ( optionnel Application Mobile )
+- Carte Menus:
+- Histoire de l'enseigne
 
 
-- Map Monde
+
 - Iconographie :
 Pictogrammes
 Logo
